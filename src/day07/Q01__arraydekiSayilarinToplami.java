@@ -1,8 +1,6 @@
 package day07;
 
-import java.util.Arrays;
-
-public class C01__arraydekiSayilarinToplami {
+public class Q01__arraydekiSayilarinToplami {
     /*
     Create an array of 5 floats and calculate their sum
      */
